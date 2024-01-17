@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arinah Filzah
 =====================================================================================================================================
 
-A passionate software engineering student.
-------------------------------------------
-
 I'm dedicated to learning, staying updated on industry trends, and fostering innovation in collaborative environments, with a strong goal of making significant contributions to software development.
 
 * ✉️  You can contact me at [arinahfilzah1002@gmail.com](mailto:arinahfilzah1002@gmail.com)
