@@ -1,8 +1,9 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Arinah Filzah
-=====================================================================================================================================
+<h1 id="my-profile">My Profile</h1>
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/147329911?v=4"alt="Image"width="200" height="200"></p>
 
-Hi, I’m Arinah Filzah. I’m currently pursuing my study in Bachelor of Computer Science (Software Engineering) in Universiti Teknologi Malaysia. I’m dedicated to learning, staying updated on industry trends, and fostering innovation in collaborative environments, with a strong goal of making significant contributions to software development.
+Hi, I'm Arinah Filzah. I’m currently pursuing my study in Bachelor of Computer Science (Software Engineering) in Universiti Teknologi Malaysia. I’m dedicated to learning, staying updated on industry trends, and fostering innovation in collaborative environments, with a strong goal of making significant contributions to software development.
 
 * 🖥️  See my portfolio at [e-portfolio](http://github.com/arinahfilzah/e-portfolio)
 * ✉️  You can contact me at [arinahfilzah1002@gmail.com](mailto:arinahfilzah1002@gmail.com)
